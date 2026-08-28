@@ -1,0 +1,8 @@
+{
+  "name": "Services Pricing Cards",
+  "description": "A beautiful, glassmorphism-styled pricing services section matching the provided design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
